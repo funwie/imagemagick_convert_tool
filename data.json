@@ -1,0 +1,32 @@
+[
+  {
+    "inputImageFile": "logo.jpeg",
+    "outputImageSize": "100%",
+    "outputImageFileName": "logo_same_format_size",
+    "outputImageFormat": "jpeg"
+  },
+  {
+    "inputImageFile": "logo.jpeg",
+    "outputImageSize": "100%",
+    "outputImageFileName": "logo_same",
+    "outputImageFormat": ""
+  },
+  {
+    "inputImageFile": "logo.jpeg",
+    "outputImageSize": "60",
+    "outputImageFileName": "logo_at_60_percent",
+    "outputImageFormat": "png"
+  },
+  {
+    "inputImageFile": "logo.jpeg",
+    "outputImageSize": "",
+    "outputImageFileName": "logo_at_100_percent",
+    "outputImageFormat": "jpg"
+  },
+  {
+    "inputImageFile": "not_exist.jpeg",
+    "outputImageSize": "50%",
+    "outputImageFileName": "expecting_error",
+    "outputImageFormat": "png"
+  }
+]
